@@ -1,0 +1,5 @@
+name: AuthmeEZAntiBot
+main: com.mcsunnyside.AuthmeEZAntiBot.Main
+version: 1.0.0
+author: BukkitCommons
+depend: [AuthMe]
